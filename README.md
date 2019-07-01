@@ -1,2 +1,2 @@
 # Graduation-task
-卒検
+## そつけんのやつ
