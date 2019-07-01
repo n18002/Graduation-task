@@ -1,0 +1,19 @@
+@charset 'utf-8';
+img{
+    width: 300px;
+    max-width: auto;
+    height: 400px;
+}
+
+.pos1{
+    position: absolute;
+    top: 0%
+    left: 0%;
+}
+
+.square{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background: green;
+}

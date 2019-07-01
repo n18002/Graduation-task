@@ -1,0 +1,24 @@
+@charset 'utf-8';
+h1 {
+    font-size: 1.4em;
+    color: pink;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    font-size: 1.4em;
+    color: blue;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    font-size: 1.4em;
+    color: red;
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
